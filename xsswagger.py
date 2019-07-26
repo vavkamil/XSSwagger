@@ -8,7 +8,7 @@ import urllib.parse
 import concurrent.futures
 
 # from tqdm import tqdm
-from termcolor import colored
+from termcolor import coloredrsion
 from packaging import version
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
